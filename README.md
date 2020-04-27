@@ -16,10 +16,12 @@ For the POC, we will need to have these in place:
 Live kanban here: https://github.com/metasikander/futarchy/projects
 
 # design goals
-- tokens
-    - used by the bettors on bets
-    - is distributed based on rules set by the admins
-    - is always distributed fairly amongst all bettors
+- ledger
+    - log of all transactions of tokens, from issuance to bets
+    - tokens
+        - used by the bettors on bets
+        - is distributed based on rules set by the admins
+        - is always distributed fairly amongst all bettors
 - accounts
     - anonymous
     - account types:
